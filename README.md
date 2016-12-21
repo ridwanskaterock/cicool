@@ -45,7 +45,7 @@ Cicool is a multifunctional application that is used to facilitate your work in 
             </li>
             <li><a href="https://youtu.be/OoK8XeHcErc" rel="nofollow">how to embed contact form on page</a>
             </li>
-            <li> <a href="http://cicool.ridwans.com/administrator/login" rel="nofollow">Try live demo</a>
+            <li> <a href="http://cool.ridwans.com/administrator/login" rel="nofollow">Try live demo</a>
                 <ul>
                     <li>Email : <strong><a >admin@admin.com</a></strong>
                     </li>
@@ -65,7 +65,7 @@ Cicool is a multifunctional application that is used to facilitate your work in 
     
         <h2 id="item-description__changelog">Changelog</h2> 
 <pre>Version 1.18 (December 18, 2016)
-- Release of this script on Codecanyon.
+- Release of this script 
 </pre>
 
 </div>
