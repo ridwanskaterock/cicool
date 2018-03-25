@@ -1,7 +1,7 @@
 # cicool
 Cicool is a multifunctional application that is used to facilitate your work in creating a system, CMS, E-Comerce and others
 
-<a href="https://codecanyon.net/item/cicool-page-form-rest-api-and-crud-generator/19207897?ref=ridwanskaterocks"><img src="https://vaportechhawaii.com/vapor-content/uploads/2016/10/mbcykvfc.png"></a>
+<a href="https://codecanyon.net/item/cicool-page-form-rest-api-and-crud-generator/19207897?ref=ridwanskaterocks"><img src="https://vaportechhawaii.com/vapor-content/uploads/2016/10/mbcykvfc.png" width="100px"></a>
 
 <div >
     <img src="http://heriver.com/uploads/01_landing.png" />
