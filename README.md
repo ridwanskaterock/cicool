@@ -1,12 +1,12 @@
 <center><a href="https://codecanyon.net/item/cicool-page-form-rest-api-and-crud-generator/19207897?ref=ridwanskaterocks"><img src="https://repairmybatterysite.files.wordpress.com/2017/01/get-it-now-button.png" title="get it now"></a></center>
-    <img src="http://cicool.go-moment.com/preview/01_landing.png" />
-    <img src="http://cicool.go-moment.com/preview/02_pagebuilder.png" />
-    <img src="http://cicool.go-moment.com/preview/03_crudbuilder.png" />
-    <img src="http://cicool.go-moment.com/preview/03_1_crudbuilder.png" />
-    <img src="http://cicool.go-moment.com/preview/04_formbuilder.png" />
-    <img src="http://cicool.go-moment.com/preview/05_apibuilder.png" />
-    <img src="http://cicool.go-moment.com/preview/06_wizzard.png" />
-    <img src="http://cicool.go-moment.com/preview/07_reviewed2.png" />
+    <img src="http://cicool.delightcosmetic.com/preview/01_landing.png" />
+    <img src="http://cicool.delightcosmetic.com/preview/02_pagebuilder.png" />
+    <img src="http://cicool.delightcosmetic.com/preview/03_crudbuilder.png" />
+    <img src="http://cicool.delightcosmetic.com/preview/03_1_crudbuilder.png" />
+    <img src="http://cicool.delightcosmetic.com/preview/04_formbuilder.png" />
+    <img src="http://cicool.delightcosmetic.com/preview/05_apibuilder.png" />
+    <img src="http://cicool.delightcosmetic.com/preview/06_wizzard.png" />
+    <img src="http://cicool.delightcosmetic.com/preview/07_reviewed2.png" />
     <p>
         </p><h2 id="item-description__cicool">cicool</h2>
         <p>Cicool web builder is used to create dynamic web, making rest API, Dynamic Forms, CRUD dynamic and Page Builder incredible, build web application fast and possible!.</p>
@@ -115,7 +115,7 @@
             </li>
             <li><a href="https://youtu.be/OoK8XeHcErc" rel="nofollow">how to embed contact form on page</a>
             </li>
-            <li> <a href="http://cicool.go-moment.com/administrator/login" rel="nofollow">Try live demo</a>
+            <li> <a href="http://cicool.delightcosmetic.com/administrator/login" rel="nofollow">Try live demo</a>
                 <ul>
                     <li>Email : <strong><a href="mailto:admin@admin.com">admin@admin.com</a></strong>
                     </li>
