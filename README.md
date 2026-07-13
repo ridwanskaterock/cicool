@@ -1,6 +1,6 @@
 <center><a href="https://codecanyon.net/item/cicool-page-form-rest-api-and-crud-generator/19207897?ref=ridwanskaterocks"><img src="https://repairmybatterysite.files.wordpress.com/2017/01/get-it-now-button.png" title="get it now"></a></center>
-    <img src="http://cicool.delightcosmetic.com/preview/01_landing.png" />
-    <img src="http://cicool.delightcosmetic.com/preview/02_pagebuilder.png" />
+    <img src="http://cicool.id/preview/01_landing.png" />
+    <img src="http://cicool.id/preview/02_pagebuilder.png" />
     <img src="http://cicool.delightcosmetic.com/preview/03_crudbuilder.png" />
     <img src="http://cicool.delightcosmetic.com/preview/03_1_crudbuilder.png" />
     <img src="http://cicool.delightcosmetic.com/preview/04_formbuilder.png" />
