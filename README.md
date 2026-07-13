@@ -1,147 +1,133 @@
 <center><a href="https://codecanyon.net/item/cicool-page-form-rest-api-and-crud-generator/19207897?ref=ridwanskaterocks"><img src="https://repairmybatterysite.files.wordpress.com/2017/01/get-it-now-button.png" title="get it now"></a></center>
     <img src="http://cicool.id/preview/01_landing.png" />
     <img src="http://cicool.id/preview/02_pagebuilder.png" />
-    <img src="http://cicool.delightcosmetic.com/preview/03_crudbuilder.png" />
-    <img src="http://cicool.delightcosmetic.com/preview/03_1_crudbuilder.png" />
-    <img src="http://cicool.delightcosmetic.com/preview/04_formbuilder.png" />
-    <img src="http://cicool.delightcosmetic.com/preview/05_apibuilder.png" />
-    <img src="http://cicool.delightcosmetic.com/preview/06_wizzard.png" />
-    <img src="http://cicool.delightcosmetic.com/preview/07_reviewed2.png" />
-    <p>
-        </p><h2 id="item-description__cicool">cicool</h2>
-        <p>Cicool web builder is used to create dynamic web, making rest API, Dynamic Forms, CRUD dynamic and Page Builder incredible, build web application fast and possible!.</p>
-        <h2 id="item-description__features">Features</h2>
-        <ul>
-            <li>HMVC</li>
-            <li>CRUD Generator</li>
-            <li>PAGE Generator</li>
-            <li>Form Generator</li>
-            <li>REST API Generator</li>
-            <li>Wizzard Installation</li>
-            <li>20+ Field Type</li>
-            <li>35+ Form Validation</li>
-            <li>Ajax Form</li>
-            <li>Testing Your API With Rest Tool (ready on cicool)</li>
-            <li>Dinamic Menu</li>
-            <li>Auto Generate Documentation</li>
-            <li>Shortcode Form Embed on Page</li>
-            <li>Easy Customize Frontend Theme</li>
-            <li>Smart model</li>
-            <li>RESTful Server</li>
-            <li>Backend Integerate with AdminLTE</li>
-            <li>Full Access Controll With Aauth</li>
-            <li>Easy to save data with hot keys</li>
-            <li>Uploads file just drag and drop</li>
-            <li>Multi Language (New)</li>
-            <li>eCommerce Starter (Comming soon)</li>
-            <li>More awesome templates page builder  (Comming soon)</li>
+    <img src="http://cicool.id/preview/03_crudbuilder.png" />
+    <img src="http://cicool.id/preview/03_1_crudbuilder.png" />
+    <img src="http://cicool.id/preview/04_formbuilder.png" />
+    <img src="http://cicool.id/preview/05_apibuilder.png" />
+    <img src="http://cicool.id/preview/06_wizzard.png" />
+    <img src="http://cicool.id/preview/07_reviewed2.png" />## cicool
 
-        </ul>
+Cicool web builder is used to create dynamic websites, create REST APIs, dynamic forms, dynamic CRUDs, and amazing page builders, enabling rapid web application development.
 
-        <h2 id="item-description__field-type">Field Type</h2>
-        <p>with a very complete input type you are able to build a web application with ease</p>
-        <ul>
-            <li>input</li>
-            <li>textarea</li>
-            <li>select</li>
-            <li>editor wysiwyg</li>
-            <li>password</li>
-            <li>email</li>
-            <li>address map</li>
-            <li>file</li>
-            <li>datetime</li>
-            <li>date</li>
-            <li>number</li>
-            <li>yes or no</li>
-            <li>time</li>
-            <li>year</li>
-            <li>select multiple</li>
-            <li>checkboxes</li>
-            <li>options</li>
-            <li>true false</li>
-            <li>custom option</li>
-            <li>custom checkbox</li>
-            <li>custom select multiple</li>
-            <li>custom select</li>
-            <li>timestamp <b>(new)</b></li>
-            <li>current user username <b>(new)</b></li>
-            <li>current user id <b>(new)</b></li>
-            <li>multiple files<b>(new)</b></li>
-            <li>and more..</li>
-        </ul>
+## Features
 
-        <h2 id="item-description__form-validation">Form Validation</h2>
-        <p>secure input and make the data fit with what they want with input validation in more than 35</p>
-        <ul>
-            <li>required</li>
-            <li>max length</li>
-            <li>min length</li>
-            <li>valid email</li>
-            <li>valid emails</li>
-            <li>regex</li>
-            <li>decimal</li>
-            <li>allowed extension</li>
-            <li>max width</li>
-            <li>max height</li>
-            <li>max size</li>
-            <li>valid url</li>
-            <li>alpha</li>
-            <li>alpha numeric</li>
-            <li>alpha numeric spaces</li>
-            <li>valid number</li>
-            <li>valid datetime</li>
-            <li>valid date</li>
-            <li>valid max selected option</li>
-            <li>valid min selected option</li>
-            <li>valid alpha numeric spaces underscores</li>
-            <li>matches</li>
-            <li>valid json</li>
-            <li>valid url</li>
-            <li>exact length</li>
-            <li>max item</li>
-            <li>and more..</li>
-        </ul>
+- HMVC
+- CRUD Generator
+- PAGE Generator
+- Form Generator
+- REST API Generator
+- Wizard Installation
+- 20+ Field Types
+- 35+ Form Validation Rules
+- Ajax Form
+- API Testing with the built-in REST Tool
+- Dynamic Menu
+- Auto-generated Documentation
+- Shortcode Form Embed on Pages
+- Easy Frontend Theme Customization
+- Smart Model
+- RESTful Server
+- Backend Integrated with AdminLTE
+- Full Access Control with Aauth
+- Hotkeys for saving data
+- Drag-and-drop file uploads
+- Multi-language *(New)*
+- eCommerce Starter *(Coming soon)*
+- More awesome Page Builder templates *(Coming soon)*
 
-        <p>Buy now and get other interesting features</p>
-        <h2 id="item-description__demo-amp-documentation">Demo &#38; Documentation</h2>
-        <ul>
-            <li><a href="https://cicoolbuilder.github.io/documentation" rel="nofollow">extension documentation</a>
-            </li><li><a href="https://youtu.be/fQJZSgLCz04" rel="nofollow">how to make a blog with crud builder</a>
-            </li><li><a href="https://youtu.be/PI07LbPwEds" rel="nofollow">how to make blog Rest API with APi Builder</a>
-            </li>
-            <li><a href="https://youtu.be/O9-vFtFciEM" rel="nofollow">how to make responsive page</a>
-            </li>
-            <li><a href="https://youtu.be/7nQwLjpOtnE" rel="nofollow">how to make contact form with form builder</a>
-            </li>
-            <li><a href="https://youtu.be/OoK8XeHcErc" rel="nofollow">how to embed contact form on page</a>
-            </li>
-            <li> <a href="http://cicool.delightcosmetic.com/administrator/login" rel="nofollow">Try live demo</a>
-                <ul>
-                    <li>Email : <strong><a href="mailto:admin@admin.com">admin@admin.com</a></strong>
-                    </li>
-                    <li>Password : <strong>admin123</strong>
-                    </li>
-                </ul>
-            </li>
-        </ul>
-        <h2 id="item-description__installation">Installation</h2> 
-        <p>
-            Installation Just One Sec With Wizzard Installation
-        </p>
-        <ul>
-            <li>Extract cicool.zip in your server</li>
-            <li>Just Follow Wizzard Installation, web ready to use</li>
-        </ul> Note *
+## Field Types
 
-        <h2 id="item-description__requirements">Requirements</h2> 
+With a very complete set of input types, you can easily build web applications.
 
-        <ul>
-            <li>Mcrypt Extension</li>
-            <li>PHP 7.1, 7.0, 5.6</li>
-        </ul> 
+- Input
+- Textarea
+- Select
+- WYSIWYG Editor
+- Password
+- Email
+- Address Map
+- File
+- Datetime
+- Date
+- Number
+- Yes/No
+- Time
+- Year
+- Multiple Select
+- Checkboxes
+- Options
+- True/False
+- Custom Option
+- Custom Checkbox
+- Custom Multiple Select
+- Custom Select
+- Timestamp **(new)**
+- Current User Username **(new)**
+- Current User ID **(new)**
+- Multiple Files **(new)**
+- And more…
 
-        <h2 id="item-description__changelog">Changelog</h2> 
+## Form Validation
 
+Secure input and ensure data matches requirements with over 35 validation rules.
+
+- Required
+- Max Length
+- Min Length
+- Valid Email
+- Valid Emails
+- Regex
+- Decimal
+- Allowed Extension
+- Max Width
+- Max Height
+- Max Size
+- Valid URL
+- Alpha
+- Alpha Numeric
+- Alpha Numeric Spaces
+- Valid Number
+- Valid Datetime
+- Valid Date
+- Max Selected Options
+- Min Selected Options
+- Alpha Numeric with Spaces and Underscores
+- Matches
+- Valid JSON
+- Exact Length
+- Max Items
+- And more…
+
+Buy now and get even more exciting features!
+
+## Demo & Documentation
+
+- [Extension Documentation](https://cicoolbuilder.github.io/documentation)
+- [How to Make a Blog with CRUD Builder](https://youtu.be/fQJZSgLCz04)
+- [How to Build a Blog REST API with API Builder](https://youtu.be/PI07LbPwEds)
+- [How to Create a Responsive Page](https://youtu.be/O9-vFtFciEM)
+- [How to Create a Contact Form with Form Builder](https://youtu.be/7nQwLjpOtnE)
+- [How to Embed a Contact Form on a Page](https://youtu.be/OoK8XeHcErc)
+- **Live Demo:** <http://cicool.delightcosmetic.com/administrator/login>  
+  - Email: `admin@admin.com`
+  - Password: `admin123`
+
+## Installation
+
+Installation takes just a few seconds with the Wizard Installation.
+
+1. Extract `cicool.zip` to your server.
+2. Follow the Wizard Installation steps.
+
+> **Note**
+
+## Requirements
+
+- Mcrypt Extension
+- PHP 5.6, 7.0, or 7.1
+
+## Changelog
 
 
        
